@@ -1,0 +1,23 @@
+{
+  "name": "test-javascript-env",
+  "version": "0.0.0",
+  "description": "Esto es un entorno de prueba de ES6 para node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivalcoba/test-javascript-env.git"
+  },
+  "keywords": [
+    "Node",
+    "ES6"
+  ],
+  "author": "@rivalcoba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rivalcoba/test-javascript-env/issues"
+  },
+  "homepage": "https://github.com/rivalcoba/test-javascript-env#readme"
+}
